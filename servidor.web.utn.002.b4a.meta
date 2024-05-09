@@ -1,0 +1,9 @@
+﻿ModuleBookmarks0=
+ModuleBookmarks1=
+ModuleBreakpoints0=
+ModuleBreakpoints1=
+ModuleClosedNodes0=1,2
+ModuleClosedNodes1=
+NavigationStack=Main,Globals,21,0,Main,Process_Globals,17,4,ServidorWeb,Process_Globals,8,4,ServidorWeb,Service_Start,19,2,ServidorWeb,Service_TaskRemoved,24,2,ServidorWeb,Service_Create,14,6,ServidorWeb,Service_Destroy,33,0,Main,Activity_Pause,32,0,Main,Button1_Click,39,6,ServidorWeb,webSocket_HandleRequest,45,6
+SelectedBuild=0
+VisibleModules=1
